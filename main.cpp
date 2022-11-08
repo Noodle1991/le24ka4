@@ -1,5 +1,5 @@
 #include <iostream>
-
+///hello
 struct MobilePhone {
     double weight;
     bool is_broken;
